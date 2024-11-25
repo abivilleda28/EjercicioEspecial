@@ -1,5 +1,6 @@
 # Ejercicio Evaluado Especial
 
-Ejercicio Evaluado Especial
-
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
+## Cohorte CH47 
+* 25 de Noviembre del 2024
+* 10:24
+* Tania Abigail Flores Villeda
